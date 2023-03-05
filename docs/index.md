@@ -98,6 +98,7 @@ Produk ini dirancang untuk membantu masyarakat awam mengenai kesegaran daging sa
 
 Ibu rumah tangga / penjual makanan berbahan daging sapi
 
+
 3. Use Case Diagram
 
 ![image](https://user-images.githubusercontent.com/69892731/222976002-b0041427-38a1-4474-bc20-b1ee2c33f7dd.png)
@@ -116,12 +117,15 @@ Ibu rumah tangga / penjual makanan berbahan daging sapi
 
 ![image](https://user-images.githubusercontent.com/69892731/222976184-ebc62439-c783-4378-b61e-3e47b54802f7.png)
 
-6. Low-fidelity 
+6. Low-fidelity
 
 ![image](https://user-images.githubusercontent.com/69892731/222976204-00ed0ac0-638e-4477-88f6-14f05acaf926.png)
 
 7. Gantt-Chart pengerjaan 1 semester
 
 ![image](https://user-images.githubusercontent.com/69892731/222976217-fa14a8bb-4365-40e6-a501-d5ed6fb19eaa.png)
+
+
+
 
 
