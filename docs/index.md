@@ -84,3 +84,31 @@ Solusi : Solusi yang kami berikan dari permasalahan yang kami berikan yakni beru
 | + menggunakan sistem berbasis AI | - Berupa alat yang dapat rusak dan sulit digunakan |
 | + sudah terjual lebih dari 50 unit | -  |
 
+
+### Metodologi
+Metodologi: Agile
+Alasan: Karena keterbatasan waktu yang diberikan untuk menyelesaikan project, dan juga agar dapat menyesuaikan dengan kegiatan-kegiatan perkuliahan maupun di luar perkuliahan dengan baik.
+
+### Perancangan Tahap 1 - 3
+1. Tujuan
+Produk ini dirancang untuk membantu masyarakat awam mengenai kesegaran daging sapi yang hendak dibeli dengan cara mendeteksi kesegaran daging sapi
+2. Pengguna potensial dari produk dan kebutuhan para pengguna tersebut
+Ibu rumah tangga / penjual makanan berbahan daging sapi
+3. Use Case Diagram
+![image](https://user-images.githubusercontent.com/69892731/222976002-b0041427-38a1-4474-bc20-b1ee2c33f7dd.png)
+4. Functional Requirements
+| FR | Deskripsi |
+| --- | --- |
+| uploadImage | fungsi untuk meng-unggah gambar daging yang akan dideteksi menggunakan AI|
+| predictImage | fungsi untuk generate gambardari unggahan user ke engine AI |
+| getPredict | fungsi untuk mendapatkan hasil dari generate gambar melalui engine AI|
+| signIn | fungsi untuk melakukan login akun |
+| signUp | fungsi untuk melakukan registrasi akun |
+5. Entity Relationship Diagram
+![image](https://user-images.githubusercontent.com/69892731/222976184-ebc62439-c783-4378-b61e-3e47b54802f7.png)
+6. Low-fidelity 
+![image](https://user-images.githubusercontent.com/69892731/222976204-00ed0ac0-638e-4477-88f6-14f05acaf926.png)
+7. Gantt-Chart pengerjaan 1 semester
+![image](https://user-images.githubusercontent.com/69892731/222976217-fa14a8bb-4365-40e6-a501-d5ed6fb19eaa.png)
+
+
