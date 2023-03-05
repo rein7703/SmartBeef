@@ -13,7 +13,7 @@ Fakultas Teknik<br>
 Universitas Gadjah Mada
 
 ### Nama Produk
-Halodog
+SmartBeef
 
 ### Jenis Produk
 Aplikasi web
